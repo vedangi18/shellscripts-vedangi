@@ -6,3 +6,10 @@ echo "Value of b"
 read b
 echo "Hello value of a is $a and value of b is $b"
 echo "Welcome to DevOps"
+
+#!/bin/bash
+#This is creation and calling of shell variable --- defining variables
+Class=Young-minds
+Batch=13
+PROFESSION=AWS/DevOps
+echo "Class Name is $Class, Batch number $Batch, We are learning $PROFESSION"
